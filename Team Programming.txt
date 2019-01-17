@@ -11,3 +11,4 @@ Subdomains und Seitenstruktur begonnen
 17.01.2019:
 <Team stark dezimiert, nur eine Person anwesend>
 Arbeit an Videoplayer und neuer Subdomain begonnen
+Logs in Kooperation mit Team Research (in Form von Hannah) begonnen

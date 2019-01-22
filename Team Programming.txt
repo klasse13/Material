@@ -9,6 +9,6 @@ Live Interpreter gesucht
 Subdomains und Seitenstruktur begonnen
 
 17.01.2019:
-<Team stark dezimiert, nur eine Person anwesend>
+<Team stark dezimiert, nur eine Person anwesend, der Rest macht anderes PP Projekt (Kästen)>
 Arbeit an Videoplayer und neuer Subdomain begonnen
 Logs in Kooperation mit Team Research (in Form von Hannah) begonnen

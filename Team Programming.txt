@@ -10,5 +10,13 @@ Subdomains und Seitenstruktur begonnen
 
 17.01.2019:
 <Team stark dezimiert, nur eine Person anwesend, der Rest macht anderes PP Projekt (Kästen)>
-Arbeit an Videoplayer und neuer Subdomain begonnen
+Arbeit an Videoplayer begonnen
+Slider durch bessere Version ersetzt
 Logs in Kooperation mit Team Research (in Form von Hannah) begonnen
+
+23.01.2019
+<Team für mehr als die Hälfte der Zeit stark dezimiert, Fabian und Philipp schreiben Mathe Test nach>
+Subdomains aufgesetzt
+Slider vervollständigt
+Navigation Bar überarbeitet
+Header eingefügt

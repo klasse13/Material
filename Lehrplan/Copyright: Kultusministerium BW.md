@@ -1,1 +1,1 @@
-Das Copyright liegt beim Kultusministerium Baden-Württemberg.
+Das Copyright in diesem Ordner liegt beim Kultusministerium Baden-Württemberg.
